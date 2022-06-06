@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'Harworking - Nermin was working with Jenkins'
                 sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile'
-                echo 'Jenkis with python'
+                echo 'Monday - Jenkis with python'
             }
         }
     }
