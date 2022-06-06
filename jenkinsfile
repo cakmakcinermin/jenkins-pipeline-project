@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "By devopsyasin to Reinvent Yourself"
+                echo "Nermin was here at 3am"
                 sh 'echo second step'
                 sh 'echo another step'                
                 sh '''
