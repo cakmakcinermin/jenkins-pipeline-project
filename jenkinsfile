@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Nermin was here at 3am"
+                echo "Nermin was here at 3am with Jenkins :)"
                 sh 'echo second step'
                 sh 'echo another step'                
                 sh '''
