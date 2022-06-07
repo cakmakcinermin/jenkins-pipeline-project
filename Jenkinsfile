@@ -3,12 +3,10 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'Harworking - Nermin was working with Jenkins'
-                sh 'echo Integrating Jenkins Pipeline with GitHub Webhook using Jenkinsfile'
-                echo 'Jenkis with python'
+                echo "Clarusway_Way to Reinvent Yourself"
+                sh 'echo using shell within Jenkinsfile'
+                echo 'not using shell in the Jenkinsfile'
             }
         }
     }
 }
-
-
